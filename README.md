@@ -1,2 +1,3 @@
 # sample-gaming-webpage
-Basic HTML/CSS webpage for gaming
+
+Creating a basic webpage with HTML and CSS with a gaming theme
